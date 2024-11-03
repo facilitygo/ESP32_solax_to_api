@@ -1,4 +1,4 @@
-Monitoring solar inverter Solax Hybrid through ESP32 and send data to your API server
+**Monitoring** solar inverter Solax Hybrid through ESP32 and send data to your API server
 
 Settings in ino file:
 1. Your API server (comming soon)
