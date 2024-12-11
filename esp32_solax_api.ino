@@ -9,9 +9,9 @@
 WiFiUDP ntpUDP;
 
 String solax_ip = "";  // Defaultní IP adresa Solaxu
-const char* token_url = "https://apina.energyai.uk:8010/token";
-const char* ip_url = "https://apina.energyai.uk:8010/ip";
-const char* data_url = "https://apina.energyai.uk:8010/data/";
+const char* token_url = "https://api.example.com/token";
+const char* ip_url = "https://api.example.com/ip";
+const char* data_url = "https://api.example.com/data/";
 const char* ntpServer = "pool.ntp.org";   // NTP server pro synchronizaci času
 const int timeZoneOffset = 3600;          // Offset časového pásma v sekundách (např. 3600 pro GMT+1)
 
