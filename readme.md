@@ -3,10 +3,10 @@
 Settings in ino file:
 1. Your API server (comming soon ... python fastAPI server code)
 2. Your DB (comming soon ... MySQL for fastAPI)
-3. Set your IP address Solax Inverter
-4. Check password at http request on API Solax (default password)
+3. Set only your API server and data and token input
 
 Settings by BLE:
-1. Name and password to your WiFi
-2. Set your name and password to your API server
+1. Set SSID and Password from Local Net to EEPROM
+2. Set UID and Password to API server to EEPROM
+3. Set your IP address Solax Inverter and Solax admin password for request data from Solax Inverter to EEPROM
 
